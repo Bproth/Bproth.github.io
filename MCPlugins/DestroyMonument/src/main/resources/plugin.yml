@@ -1,3 +1,3 @@
 name: DestroyMonument
-main: io.github.Bproth.testplugin.DestroyMonument.java
-version 1.0
+main: io.github.Bproth.destroymonument.DestroyMonument
+version: 1.0
